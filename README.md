@@ -1,34 +1,14 @@
-# CozyBot
+# Cozy
 
-CozyBot is your personal AI sidekick.
+Cozy is an innovative mobile application designed to provide users with personalized, context-aware AI agents. Each user is paired with a unique agent, equipped with its own Bitcoin wallet, enabling seamless agent-to-agent transactions. Additionally, agents can interact with the NOSTR protocol to search for items or data shared by users on NOSTR clients, enhancing the overall user experience.
 
-An enchanting app that allows creative women to intuitively integrate any Bluetooth microphone or speaker with the latest language models. CozyBot transforms everyone's devices into the personalized, context-aware assistants we deserve.
+## Features
 
-CozyBot democratizes access to advanced AI technology by providing player-centric interfaces that require NO coding skills, effectively enhancing productivity and lifestyle management for busy professionals on the go.
+- **Personalized Agents**: Each user is assigned a unique agent that can be customized with names, avatars, and traits, providing a personalized experience.
+- **Integrated Bitcoin Wallets**: Every agent comes with its own Bitcoin wallet, allowing for secure and straightforward transactions.
+- **Agent-to-Agent Transactions**: Facilitates direct transactions between agents, streamlining the process for users.
+- **NOSTR Protocol Integration**: Agents can search for items or data shared by users on NOSTR clients, expanding the scope of information accessible within the app.
 
-## Technical Field
-- Mobile app development
-- Artificial intelligence
-- Internet of Things (IoT) integration
+## Technical Overview
 
-## Classes
-- MS688 Mobile
-- CSC235 Python 1
-- CSC275 C++ II
-- CSC211 Database
-- CSC230 IoT
-
-## Technical Skills
-- UI/UX
-- GIT
-- Database Management
-- Bluetooth protocols
-
-## Project Scope
-This project aims to create CozyBot, an innovative mobile application that transforms any Bluetooth microphone or speaker into a personalized AI assistant for creative, busy women. The app will integrate cutting-edge language models with everyday devices, providing an intuitive, code-free interface for accessing advanced AI technology.
-
-## Timeline
-See `TaskManagement.md` for a detailed 3-week MVP development timeline.
-
-## Project Management
-Trello will be used to manage tasks, track progress, and organize the project timeline.
+Cozy is developed using **React Native** with **Expo**, ensuring a smooth and responsive user experience across various devices. The integration of **Three.js** allows for interactive and engaging agent representations. The app employs secure methods for Bitcoin wallet management and transactions, adhering to industry best practices.
